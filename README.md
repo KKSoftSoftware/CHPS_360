@@ -52,7 +52,7 @@ CHPS 360 checks for new versions automatically every time it runs.
 ## 🧭 How to Use
 
 1. Launch **Autodesk Revit 2024**.
-2. Go to the **Add-Ins** tab.
+2. Go to the **CHPS 360** tab.
 3. You will see two buttons:
    - **CHPS360 PULL** → Extracts model data
    - **CHPS360 PUSH** → Updates the model based on predefined input
